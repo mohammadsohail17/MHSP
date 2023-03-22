@@ -1,0 +1,17 @@
+{
+  "name": "mhs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sohail <sohail23265@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "child_process": "^1.0.2",
+    "create-react-app": "^5.0.1",
+    "express": "^4.18.2"
+  }
+}
